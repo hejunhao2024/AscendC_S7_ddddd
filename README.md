@@ -1,1 +1,1 @@
-# AscendC_S7_ddddd
+# Implementation of Softplus
